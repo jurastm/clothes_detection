@@ -3,7 +3,7 @@ import tensorflow as tf
 import cv2
 import pkg_resources
 
-from yolov3_tf2.models import YoloV3
+from .yolov3_tf2.models import YoloV3
 
 WEIGHTS_PATH = pkg_resources.resource_filename('clothes_detection', 'graphs/deepfashion2_yolov3')
 
