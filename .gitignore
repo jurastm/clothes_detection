@@ -110,3 +110,4 @@ venv.bak/
 .mypy_cache/
 clothes_detection/graphs/deepfashion2_yolov3.data-00000-of-00001
 clothes_detection/graphs/deepfashion2_yolov3.index
+clothes_detection/img1.jpg
